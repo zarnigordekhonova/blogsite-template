@@ -1,0 +1,982 @@
+[
+  {
+    "ico_code": "af",
+    "name": "Afghanistan",
+    "icon": "https://flagcdn.com/w320/af.png"
+  },
+  {
+    "ico_code": "al",
+    "name": "Albania",
+    "icon": "https://flagcdn.com/w320/al.png"
+  },
+  {
+    "ico_code": "dz",
+    "name": "Algeria",
+    "icon": "https://flagcdn.com/w320/dz.png"
+  },
+  {
+    "ico_code": "ad",
+    "name": "Andorra",
+    "icon": "https://flagcdn.com/w320/ad.png"
+  },
+  {
+    "ico_code": "ao",
+    "name": "Angola",
+    "icon": "https://flagcdn.com/w320/ao.png"
+  },
+  {
+    "ico_code": "ag",
+    "name": "Antigua and Barbuda",
+    "icon": "https://flagcdn.com/w320/ag.png"
+  },
+  {
+    "ico_code": "ar",
+    "name": "Argentina",
+    "icon": "https://flagcdn.com/w320/ar.png"
+  },
+  {
+    "ico_code": "am",
+    "name": "Armenia",
+    "icon": "https://flagcdn.com/w320/am.png"
+  },
+  {
+    "ico_code": "au",
+    "name": "Australia",
+    "icon": "https://flagcdn.com/w320/au.png"
+  },
+  {
+    "ico_code": "at",
+    "name": "Austria",
+    "icon": "https://flagcdn.com/w320/at.png"
+  },
+  {
+    "ico_code": "az",
+    "name": "Azerbaijan",
+    "icon": "https://flagcdn.com/w320/az.png"
+  },
+  {
+    "ico_code": "bs",
+    "name": "Bahamas",
+    "icon": "https://flagcdn.com/w320/bs.png"
+  },
+  {
+    "ico_code": "bh",
+    "name": "Bahrain",
+    "icon": "https://flagcdn.com/w320/bh.png"
+  },
+  {
+    "ico_code": "bd",
+    "name": "Bangladesh",
+    "icon": "https://flagcdn.com/w320/bd.png"
+  },
+  {
+    "ico_code": "bb",
+    "name": "Barbados",
+    "icon": "https://flagcdn.com/w320/bb.png"
+  },
+  {
+    "ico_code": "by",
+    "name": "Belarus",
+    "icon": "https://flagcdn.com/w320/by.png"
+  },
+  {
+    "ico_code": "be",
+    "name": "Belgium",
+    "icon": "https://flagcdn.com/w320/be.png"
+  },
+  {
+    "ico_code": "bz",
+    "name": "Belize",
+    "icon": "https://flagcdn.com/w320/bz.png"
+  },
+  {
+    "ico_code": "bj",
+    "name": "Benin",
+    "icon": "https://flagcdn.com/w320/bj.png"
+  },
+  {
+    "ico_code": "bt",
+    "name": "Bhutan",
+    "icon": "https://flagcdn.com/w320/bt.png"
+  },
+  {
+    "ico_code": "bo",
+    "name": "Bolivia",
+    "icon": "https://flagcdn.com/w320/bo.png"
+  },
+  {
+    "ico_code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "icon": "https://flagcdn.com/w320/ba.png"
+  },
+  {
+    "ico_code": "bw",
+    "name": "Botswana",
+    "icon": "https://flagcdn.com/w320/bw.png"
+  },
+  {
+    "ico_code": "br",
+    "name": "Brazil",
+    "icon": "https://flagcdn.com/w320/br.png"
+  },
+  {
+    "ico_code": "bn",
+    "name": "Brunei",
+    "icon": "https://flagcdn.com/w320/bn.png"
+  },
+  {
+    "ico_code": "bg",
+    "name": "Bulgaria",
+    "icon": "https://flagcdn.com/w320/bg.png"
+  },
+  {
+    "ico_code": "bf",
+    "name": "Burkina Faso",
+    "icon": "https://flagcdn.com/w320/bf.png"
+  },
+  {
+    "ico_code": "bi",
+    "name": "Burundi",
+    "icon": "https://flagcdn.com/w320/bi.png"
+  },
+  {
+    "ico_code": "cv",
+    "name": "Cabo Verde",
+    "icon": "https://flagcdn.com/w320/cv.png"
+  },
+  {
+    "ico_code": "kh",
+    "name": "Cambodia",
+    "icon": "https://flagcdn.com/w320/kh.png"
+  },
+  {
+    "ico_code": "cm",
+    "name": "Cameroon",
+    "icon": "https://flagcdn.com/w320/cm.png"
+  },
+  {
+    "ico_code": "ca",
+    "name": "Canada",
+    "icon": "https://flagcdn.com/w320/ca.png"
+  },
+  {
+    "ico_code": "cf",
+    "name": "Central African Republic",
+    "icon": "https://flagcdn.com/w320/cf.png"
+  },
+  {
+    "ico_code": "td",
+    "name": "Chad",
+    "icon": "https://flagcdn.com/w320/td.png"
+  },
+  {
+    "ico_code": "cl",
+    "name": "Chile",
+    "icon": "https://flagcdn.com/w320/cl.png"
+  },
+  {
+    "ico_code": "cn",
+    "name": "China",
+    "icon": "https://flagcdn.com/w320/cn.png"
+  },
+  {
+    "ico_code": "co",
+    "name": "Colombia",
+    "icon": "https://flagcdn.com/w320/co.png"
+  },
+  {
+    "ico_code": "km",
+    "name": "Comoros",
+    "icon": "https://flagcdn.com/w320/km.png"
+  },
+  {
+    "ico_code": "cd",
+    "name": "Congo (DRC)",
+    "icon": "https://flagcdn.com/w320/cd.png"
+  },
+  {
+    "ico_code": "cg",
+    "name": "Congo",
+    "icon": "https://flagcdn.com/w320/cg.png"
+  },
+  {
+    "ico_code": "cr",
+    "name": "Costa Rica",
+    "icon": "https://flagcdn.com/w320/cr.png"
+  },
+  {
+    "ico_code": "ci",
+    "name": "Côte d'Ivoire",
+    "icon": "https://flagcdn.com/w320/ci.png"
+  },
+  {
+    "ico_code": "hr",
+    "name": "Croatia",
+    "icon": "https://flagcdn.com/w320/hr.png"
+  },
+  {
+    "ico_code": "cu",
+    "name": "Cuba",
+    "icon": "https://flagcdn.com/w320/cu.png"
+  },
+  {
+    "ico_code": "cy",
+    "name": "Cyprus",
+    "icon": "https://flagcdn.com/w320/cy.png"
+  },
+  {
+    "ico_code": "cz",
+    "name": "Czechia",
+    "icon": "https://flagcdn.com/w320/cz.png"
+  },
+  {
+    "ico_code": "dk",
+    "name": "Denmark",
+    "icon": "https://flagcdn.com/w320/dk.png"
+  },
+  {
+    "ico_code": "dj",
+    "name": "Djibouti",
+    "icon": "https://flagcdn.com/w320/dj.png"
+  },
+  {
+    "ico_code": "dm",
+    "name": "Dominica",
+    "icon": "https://flagcdn.com/w320/dm.png"
+  },
+  {
+    "ico_code": "do",
+    "name": "Dominican Republic",
+    "icon": "https://flagcdn.com/w320/do.png"
+  },
+  {
+    "ico_code": "ec",
+    "name": "Ecuador",
+    "icon": "https://flagcdn.com/w320/ec.png"
+  },
+  {
+    "ico_code": "eg",
+    "name": "Egypt",
+    "icon": "https://flagcdn.com/w320/eg.png"
+  },
+  {
+    "ico_code": "sv",
+    "name": "El Salvador",
+    "icon": "https://flagcdn.com/w320/sv.png"
+  },
+  {
+    "ico_code": "gq",
+    "name": "Equatorial Guinea",
+    "icon": "https://flagcdn.com/w320/gq.png"
+  },
+  {
+    "ico_code": "er",
+    "name": "Eritrea",
+    "icon": "https://flagcdn.com/w320/er.png"
+  },
+  {
+    "ico_code": "ee",
+    "name": "Estonia",
+    "icon": "https://flagcdn.com/w320/ee.png"
+  },
+  {
+    "ico_code": "sz",
+    "name": "Eswatini",
+    "icon": "https://flagcdn.com/w320/sz.png"
+  },
+  {
+    "ico_code": "et",
+    "name": "Ethiopia",
+    "icon": "https://flagcdn.com/w320/et.png"
+  },
+  {
+    "ico_code": "fj",
+    "name": "Fiji",
+    "icon": "https://flagcdn.com/w320/fj.png"
+  },
+  {
+    "ico_code": "fi",
+    "name": "Finland",
+    "icon": "https://flagcdn.com/w320/fi.png"
+  },
+  {
+    "ico_code": "fr",
+    "name": "France",
+    "icon": "https://flagcdn.com/w320/fr.png"
+  },
+  {
+    "ico_code": "ga",
+    "name": "Gabon",
+    "icon": "https://flagcdn.com/w320/ga.png"
+  },
+  {
+    "ico_code": "gm",
+    "name": "Gambia",
+    "icon": "https://flagcdn.com/w320/gm.png"
+  },
+  {
+    "ico_code": "ge",
+    "name": "Georgia",
+    "icon": "https://flagcdn.com/w320/ge.png"
+  },
+  {
+    "ico_code": "de",
+    "name": "Germany",
+    "icon": "https://flagcdn.com/w320/de.png"
+  },
+  {
+    "ico_code": "gh",
+    "name": "Ghana",
+    "icon": "https://flagcdn.com/w320/gh.png"
+  },
+  {
+    "ico_code": "gr",
+    "name": "Greece",
+    "icon": "https://flagcdn.com/w320/gr.png"
+  },
+  {
+    "ico_code": "gd",
+    "name": "Grenada",
+    "icon": "https://flagcdn.com/w320/gd.png"
+  },
+  {
+    "ico_code": "gt",
+    "name": "Guatemala",
+    "icon": "https://flagcdn.com/w320/gt.png"
+  },
+  {
+    "ico_code": "gn",
+    "name": "Guinea",
+    "icon": "https://flagcdn.com/w320/gn.png"
+  },
+  {
+    "ico_code": "gw",
+    "name": "Guinea-Bissau",
+    "icon": "https://flagcdn.com/w320/gw.png"
+  },
+  {
+    "ico_code": "gy",
+    "name": "Guyana",
+    "icon": "https://flagcdn.com/w320/gy.png"
+  },
+  {
+    "ico_code": "ht",
+    "name": "Haiti",
+    "icon": "https://flagcdn.com/w320/ht.png"
+  },
+  {
+    "ico_code": "hn",
+    "name": "Honduras",
+    "icon": "https://flagcdn.com/w320/hn.png"
+  },
+  {
+    "ico_code": "hu",
+    "name": "Hungary",
+    "icon": "https://flagcdn.com/w320/hu.png"
+  },
+  {
+    "ico_code": "is",
+    "name": "Iceland",
+    "icon": "https://flagcdn.com/w320/is.png"
+  },
+  {
+    "ico_code": "in",
+    "name": "India",
+    "icon": "https://flagcdn.com/w320/in.png"
+  },
+  {
+    "ico_code": "id",
+    "name": "Indonesia",
+    "icon": "https://flagcdn.com/w320/id.png"
+  },
+  {
+    "ico_code": "ir",
+    "name": "Iran",
+    "icon": "https://flagcdn.com/w320/ir.png"
+  },
+  {
+    "ico_code": "iq",
+    "name": "Iraq",
+    "icon": "https://flagcdn.com/w320/iq.png"
+  },
+  {
+    "ico_code": "ie",
+    "name": "Ireland",
+    "icon": "https://flagcdn.com/w320/ie.png"
+  },
+  {
+    "ico_code": "il",
+    "name": "Israel",
+    "icon": "https://flagcdn.com/w320/il.png"
+  },
+  {
+    "ico_code": "it",
+    "name": "Italy",
+    "icon": "https://flagcdn.com/w320/it.png"
+  },
+  {
+    "ico_code": "jm",
+    "name": "Jamaica",
+    "icon": "https://flagcdn.com/w320/jm.png"
+  },
+  {
+    "ico_code": "jp",
+    "name": "Japan",
+    "icon": "https://flagcdn.com/w320/jp.png"
+  },
+  {
+    "ico_code": "jo",
+    "name": "Jordan",
+    "icon": "https://flagcdn.com/w320/jo.png"
+  },
+  {
+    "ico_code": "kz",
+    "name": "Kazakhstan",
+    "icon": "https://flagcdn.com/w320/kz.png"
+  },
+  {
+    "ico_code": "ke",
+    "name": "Kenya",
+    "icon": "https://flagcdn.com/w320/ke.png"
+  },
+  {
+    "ico_code": "ki",
+    "name": "Kiribati",
+    "icon": "https://flagcdn.com/w320/ki.png"
+  },
+  {
+    "ico_code": "kp",
+    "name": "North Korea",
+    "icon": "https://flagcdn.com/w320/kp.png"
+  },
+  {
+    "ico_code": "kr",
+    "name": "South Korea",
+    "icon": "https://flagcdn.com/w320/kr.png"
+  },
+  {
+    "ico_code": "kw",
+    "name": "Kuwait",
+    "icon": "https://flagcdn.com/w320/kw.png"
+  },
+  {
+    "ico_code": "kg",
+    "name": "Kyrgyzstan",
+    "icon": "https://flagcdn.com/w320/kg.png"
+  },
+  {
+    "ico_code": "la",
+    "name": "Laos",
+    "icon": "https://flagcdn.com/w320/la.png"
+  },
+  {
+    "ico_code": "lv",
+    "name": "Latvia",
+    "icon": "https://flagcdn.com/w320/lv.png"
+  },
+  {
+    "ico_code": "lb",
+    "name": "Lebanon",
+    "icon": "https://flagcdn.com/w320/lb.png"
+  },
+  {
+    "ico_code": "ls",
+    "name": "Lesotho",
+    "icon": "https://flagcdn.com/w320/ls.png"
+  },
+  {
+    "ico_code": "lr",
+    "name": "Liberia",
+    "icon": "https://flagcdn.com/w320/lr.png"
+  },
+  {
+    "ico_code": "ly",
+    "name": "Libya",
+    "icon": "https://flagcdn.com/w320/ly.png"
+  },
+  {
+    "ico_code": "li",
+    "name": "Liechtenstein",
+    "icon": "https://flagcdn.com/w320/li.png"
+  },
+  {
+    "ico_code": "lt",
+    "name": "Lithuania",
+    "icon": "https://flagcdn.com/w320/lt.png"
+  },
+  {
+    "ico_code": "lu",
+    "name": "Luxembourg",
+    "icon": "https://flagcdn.com/w320/lu.png"
+  },
+  {
+    "ico_code": "mg",
+    "name": "Madagascar",
+    "icon": "https://flagcdn.com/w320/mg.png"
+  },
+  {
+    "ico_code": "mw",
+    "name": "Malawi",
+    "icon": "https://flagcdn.com/w320/mw.png"
+  },
+  {
+    "ico_code": "my",
+    "name": "Malaysia",
+    "icon": "https://flagcdn.com/w320/my.png"
+  },
+  {
+    "ico_code": "mv",
+    "name": "Maldives",
+    "icon": "https://flagcdn.com/w320/mv.png"
+  },
+  {
+    "ico_code": "ml",
+    "name": "Mali",
+    "icon": "https://flagcdn.com/w320/ml.png"
+  },
+  {
+    "ico_code": "mt",
+    "name": "Malta",
+    "icon": "https://flagcdn.com/w320/mt.png"
+  },
+  {
+    "ico_code": "mh",
+    "name": "Marshall Islands",
+    "icon": "https://flagcdn.com/w320/mh.png"
+  },
+  {
+    "ico_code": "mr",
+    "name": "Mauritania",
+    "icon": "https://flagcdn.com/w320/mr.png"
+  },
+  {
+    "ico_code": "mu",
+    "name": "Mauritius",
+    "icon": "https://flagcdn.com/w320/mu.png"
+  },
+  {
+    "ico_code": "mx",
+    "name": "Mexico",
+    "icon": "https://flagcdn.com/w320/mx.png"
+  },
+  {
+    "ico_code": "fm",
+    "name": "Micronesia",
+    "icon": "https://flagcdn.com/w320/fm.png"
+  },
+  {
+    "ico_code": "md",
+    "name": "Moldova",
+    "icon": "https://flagcdn.com/w320/md.png"
+  },
+  {
+    "ico_code": "mc",
+    "name": "Monaco",
+    "icon": "https://flagcdn.com/w320/mc.png"
+  },
+  {
+    "ico_code": "mn",
+    "name": "Mongolia",
+    "icon": "https://flagcdn.com/w320/mn.png"
+  },
+  {
+    "ico_code": "me",
+    "name": "Montenegro",
+    "icon": "https://flagcdn.com/w320/me.png"
+  },
+  {
+    "ico_code": "ma",
+    "name": "Morocco",
+    "icon": "https://flagcdn.com/w320/ma.png"
+  },
+  {
+    "ico_code": "mz",
+    "name": "Mozambique",
+    "icon": "https://flagcdn.com/w320/mz.png"
+  },
+  {
+    "ico_code": "mm",
+    "name": "Myanmar",
+    "icon": "https://flagcdn.com/w320/mm.png"
+  },
+  {
+    "ico_code": "na",
+    "name": "Namibia",
+    "icon": "https://flagcdn.com/w320/na.png"
+  },
+  {
+    "ico_code": "nr",
+    "name": "Nauru",
+    "icon": "https://flagcdn.com/w320/nr.png"
+  },
+  {
+    "ico_code": "np",
+    "name": "Nepal",
+    "icon": "https://flagcdn.com/w320/np.png"
+  },
+  {
+    "ico_code": "nl",
+    "name": "Netherlands",
+    "icon": "https://flagcdn.com/w320/nl.png"
+  },
+  {
+    "ico_code": "nz",
+    "name": "New Zealand",
+    "icon": "https://flagcdn.com/w320/nz.png"
+  },
+  {
+    "ico_code": "ni",
+    "name": "Nicaragua",
+    "icon": "https://flagcdn.com/w320/ni.png"
+  },
+  {
+    "ico_code": "ne",
+    "name": "Niger",
+    "icon": "https://flagcdn.com/w320/ne.png"
+  },
+  {
+    "ico_code": "ng",
+    "name": "Nigeria",
+    "icon": "https://flagcdn.com/w320/ng.png"
+  },
+  {
+    "ico_code": "no",
+    "name": "Norway",
+    "icon": "https://flagcdn.com/w320/no.png"
+  },
+  {
+    "ico_code": "om",
+    "name": "Oman",
+    "icon": "https://flagcdn.com/w320/om.png"
+  },
+  {
+    "ico_code": "pk",
+    "name": "Pakistan",
+    "icon": "https://flagcdn.com/w320/pk.png"
+  },
+  {
+    "ico_code": "pw",
+    "name": "Palau",
+    "icon": "https://flagcdn.com/w320/pw.png"
+  },
+  {
+    "ico_code": "ps",
+    "name": "Palestine",
+    "icon": "https://flagcdn.com/w320/ps.png"
+  },
+  {
+    "ico_code": "pa",
+    "name": "Panama",
+    "icon": "https://flagcdn.com/w320/pa.png"
+  },
+  {
+    "ico_code": "pg",
+    "name": "Papua New Guinea",
+    "icon": "https://flagcdn.com/w320/pg.png"
+  },
+  {
+    "ico_code": "py",
+    "name": "Paraguay",
+    "icon": "https://flagcdn.com/w320/py.png"
+  },
+  {
+    "ico_code": "pe",
+    "name": "Peru",
+    "icon": "https://flagcdn.com/w320/pe.png"
+  },
+  {
+    "ico_code": "ph",
+    "name": "Philippines",
+    "icon": "https://flagcdn.com/w320/ph.png"
+  },
+  {
+    "ico_code": "pl",
+    "name": "Poland",
+    "icon": "https://flagcdn.com/w320/pl.png"
+  },
+  {
+    "ico_code": "pt",
+    "name": "Portugal",
+    "icon": "https://flagcdn.com/w320/pt.png"
+  },
+  {
+    "ico_code": "qa",
+    "name": "Qatar",
+    "icon": "https://flagcdn.com/w320/qa.png"
+  },
+  {
+    "ico_code": "ro",
+    "name": "Romania",
+    "icon": "https://flagcdn.com/w320/ro.png"
+  },
+  {
+    "ico_code": "ru",
+    "name": "Russia",
+    "icon": "https://flagcdn.com/w320/ru.png"
+  },
+  {
+    "ico_code": "rw",
+    "name": "Rwanda",
+    "icon": "https://flagcdn.com/w320/rw.png"
+  },
+  {
+    "ico_code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "icon": "https://flagcdn.com/w320/kn.png"
+  },
+  {
+    "ico_code": "lc",
+    "name": "Saint Lucia",
+    "icon": "https://flagcdn.com/w320/lc.png"
+  },
+  {
+    "ico_code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "icon": "https://flagcdn.com/w320/vc.png"
+  },
+  {
+    "ico_code": "ws",
+    "name": "Samoa",
+    "icon": "https://flagcdn.com/w320/ws.png"
+  },
+  {
+    "ico_code": "sm",
+    "name": "San Marino",
+    "icon": "https://flagcdn.com/w320/sm.png"
+  },
+  {
+    "ico_code": "st",
+    "name": "Sao Tome and Principe",
+    "icon": "https://flagcdn.com/w320/st.png"
+  },
+  {
+    "ico_code": "sa",
+    "name": "Saudi Arabia",
+    "icon": "https://flagcdn.com/w320/sa.png"
+  },
+  {
+    "ico_code": "sn",
+    "name": "Senegal",
+    "icon": "https://flagcdn.com/w320/sn.png"
+  },
+  {
+    "ico_code": "rs",
+    "name": "Serbia",
+    "icon": "https://flagcdn.com/w320/rs.png"
+  },
+  {
+    "ico_code": "sc",
+    "name": "Seychelles",
+    "icon": "https://flagcdn.com/w320/sc.png"
+  },
+  {
+    "ico_code": "sl",
+    "name": "Sierra Leone",
+    "icon": "https://flagcdn.com/w320/sl.png"
+  },
+  {
+    "ico_code": "sg",
+    "name": "Singapore",
+    "icon": "https://flagcdn.com/w320/sg.png"
+  },
+  {
+    "ico_code": "sk",
+    "name": "Slovakia",
+    "icon": "https://flagcdn.com/w320/sk.png"
+  },
+  {
+    "ico_code": "si",
+    "name": "Slovenia",
+    "icon": "https://flagcdn.com/w320/si.png"
+  },
+  {
+    "ico_code": "sb",
+    "name": "Solomon Islands",
+    "icon": "https://flagcdn.com/w320/sb.png"
+  },
+  {
+    "ico_code": "so",
+    "name": "Somalia",
+    "icon": "https://flagcdn.com/w320/so.png"
+  },
+  {
+    "ico_code": "za",
+    "name": "South Africa",
+    "icon": "https://flagcdn.com/w320/za.png"
+  },
+  {
+    "ico_code": "ss",
+    "name": "South Sudan",
+    "icon": "https://flagcdn.com/w320/ss.png"
+  },
+  {
+    "ico_code": "es",
+    "name": "Spain",
+    "icon": "https://flagcdn.com/w320/es.png"
+  },
+  {
+    "ico_code": "lk",
+    "name": "Sri Lanka",
+    "icon": "https://flagcdn.com/w320/lk.png"
+  },
+  {
+    "ico_code": "sd",
+    "name": "Sudan",
+    "icon": "https://flagcdn.com/w320/sd.png"
+  },
+  {
+    "ico_code": "sr",
+    "name": "Suriname",
+    "icon": "https://flagcdn.com/w320/sr.png"
+  },
+  {
+    "ico_code": "se",
+    "name": "Sweden",
+    "icon": "https://flagcdn.com/w320/se.png"
+  },
+  {
+    "ico_code": "ch",
+    "name": "Switzerland",
+    "icon": "https://flagcdn.com/w320/ch.png"
+  },
+  {
+    "ico_code": "sy",
+    "name": "Syria",
+    "icon": "https://flagcdn.com/w320/sy.png"
+  },
+  {
+    "ico_code": "tw",
+    "name": "Taiwan",
+    "icon": "https://flagcdn.com/w320/tw.png"
+  },
+  {
+    "ico_code": "tj",
+    "name": "Tajikistan",
+    "icon": "https://flagcdn.com/w320/tj.png"
+  },
+  {
+    "ico_code": "tz",
+    "name": "Tanzania",
+    "icon": "https://flagcdn.com/w320/tz.png"
+  },
+  {
+    "ico_code": "th",
+    "name": "Thailand",
+    "icon": "https://flagcdn.com/w320/th.png"
+  },
+  {
+    "ico_code": "tl",
+    "name": "Timor-Leste",
+    "icon": "https://flagcdn.com/w320/tl.png"
+  },
+  {
+    "ico_code": "tg",
+    "name": "Togo",
+    "icon": "https://flagcdn.com/w320/tg.png"
+  },
+  {
+    "ico_code": "to",
+    "name": "Tonga",
+    "icon": "https://flagcdn.com/w320/to.png"
+  },
+  {
+    "ico_code": "tt",
+    "name": "Trinidad and Tobago",
+    "icon": "https://flagcdn.com/w320/tt.png"
+  },
+  {
+    "ico_code": "tn",
+    "name": "Tunisia",
+    "icon": "https://flagcdn.com/w320/tn.png"
+  },
+  {
+    "ico_code": "tr",
+    "name": "Turkey",
+    "icon": "https://flagcdn.com/w320/tr.png"
+  },
+  {
+    "ico_code": "tm",
+    "name": "Turkmenistan",
+    "icon": "https://flagcdn.com/w320/tm.png"
+  },
+  {
+    "ico_code": "tv",
+    "name": "Tuvalu",
+    "icon": "https://flagcdn.com/w320/tv.png"
+  },
+  {
+    "ico_code": "ug",
+    "name": "Uganda",
+    "icon": "https://flagcdn.com/w320/ug.png"
+  },
+  {
+    "ico_code": "ua",
+    "name": "Ukraine",
+    "icon": "https://flagcdn.com/w320/ua.png"
+  },
+  {
+    "ico_code": "ae",
+    "name": "United Arab Emirates",
+    "icon": "https://flagcdn.com/w320/ae.png"
+  },
+  {
+    "ico_code": "gb",
+    "name": "United Kingdom",
+    "icon": "https://flagcdn.com/w320/gb.png"
+  },
+  {
+    "ico_code": "us",
+    "name": "United States",
+    "icon": "https://flagcdn.com/w320/us.png"
+  },
+  {
+    "ico_code": "uy",
+    "name": "Uruguay",
+    "icon": "https://flagcdn.com/w320/uy.png"
+  },
+  {
+    "ico_code": "uz",
+    "name": "Uzbekistan",
+    "icon": "https://flagcdn.com/w320/uz.png"
+  },
+  {
+    "ico_code": "vu",
+    "name": "Vanuatu",
+    "icon": "https://flagcdn.com/w320/vu.png"
+  },
+  {
+    "ico_code": "va",
+    "name": "Vatican City",
+    "icon": "https://flagcdn.com/w320/va.png"
+  },
+  {
+    "ico_code": "ve",
+    "name": "Venezuela",
+    "icon": "https://flagcdn.com/w320/ve.png"
+  },
+  {
+    "ico_code": "vn",
+    "name": "Vietnam",
+    "icon": "https://flagcdn.com/w320/vn.png"
+  },
+  {
+    "ico_code": "ye",
+    "name": "Yemen",
+    "icon": "https://flagcdn.com/w320/ye.png"
+  },
+  {
+    "ico_code": "zm",
+    "name": "Zambia",
+    "icon": "https://flagcdn.com/w320/zm.png"
+  },
+  {
+    "ico_code": "zw",
+    "name": "Zimbabwe",
+    "icon": "https://flagcdn.com/w320/zw.png"
+  },
+  {
+    "ico_code": "eu",
+    "name": "European Union",
+    "icon": "https://flagcdn.com/w320/eu.png"
+  }
+]

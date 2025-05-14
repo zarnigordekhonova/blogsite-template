@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container my-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="fw-bold">Blog Posts</h1>
+        <a href="{% url 'blog:create_post' %}" class="btn btn-primary">Add New Post</a>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        {% for post in posts %}
+        <div class="col">
+            <div class="card h-100 shadow-sm">
+                {% if post.image %}
+                <img src="{{ post.image.url }}" class="card-img-top" alt="{{ post.title }}" style="height: 200px; object-fit: cover;">
+                {% endif %}
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="{% url 'blog:detail_post' post.slug %}" class="text-decoration-none text-dark">
+                            {{ post.title }}
+                        </a>
+                    </h5>
+                    <p class="card-text">{{ post.content|truncatewords:20 }}</p>
+                </div>
+                <div class="card-footer text-muted">
+                    <small>Category: {{ post.category.title }}</small><br>
+                    <small>Author: {{ post.author.email }}</small>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <div class="mt-5">
+        <h2 class="mb-3">Top 3 Authors</h2>
+        <ul class="list-group">
+            {% for author in top_authors %}
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    {{ author.email }}
+                    <span class="badge bg-primary rounded-pill">{{ author.post_count }} post{{ author.post_count|pluralize }}</span>
+                </li>
+            {% empty %}
+                <li class="list-group-item">No authors found.</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endblock %}
